@@ -1,0 +1,31 @@
+.designer-text{
+    display: flex;
+}
+
+.designer-text h1 span{
+color: #FF5E69;
+font-size: 30px;
+}
+
+.designer-text h1 {
+    color: black;
+    font-size: 54px;
+    margin-left: 70px;
+}
+
+.designer-text p{
+    margin-left: 40%;
+    margin-top: 3%;
+    font-size: 25px;
+    color: gray;
+}
+
+.designer-img{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 40px 120px;
+}
+
+.img1{
+    margin-left: 170px;
+}

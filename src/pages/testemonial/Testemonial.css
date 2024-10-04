@@ -1,0 +1,90 @@
+.testemonial {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 80px 115px;
+}
+
+.testemonial-img h2 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 22px;
+  color: #4353ff;
+}
+
+.testemonial-img h1 {
+  font-family: Roboto;
+  font-size: 54px;
+  font-weight: 700;
+  line-height: 59.4px;
+  letter-spacing: 1px;
+  text-align: left;
+}
+
+.testemonial-text img {
+  padding-top: 170px;
+}
+
+.testemonial-text p {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 46.8px;
+}
+
+.testemonial-text h2 {
+  margin-top: 90px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.testemonial-text h3{
+  position: relative;
+  bottom: 5px;
+font-size: 18px;
+font-weight: 400;
+line-height: 18px;
+}
+
+.buttons-right {
+  position: relative;
+  bottom: 60px;
+  display: flex;
+  margin-left: 80%;
+}
+
+.buttons-right .button1{
+  width: 100px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 20px;
+  transition: 0.5s ease all;
+}
+
+.buttons-right .button2{
+  width: 100px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 20px;
+  transition: 0.5s ease all;
+
+}
+
+.buttons-right .button1:hover{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  margin-right: 50px;
+}
+
+.buttons-right .button2:hover{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  margin-left: 50px;
+
+}
+

@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 114px;
+}
+
+.header .name{
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    transition: 0.5s ease all;
+}
+
+.header ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+.header ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    transition: 0.5 ease all;
+}
+
+.header ul li a:hover{
+    color: blue;
+}
+
+.header .name:hover{
+    color: blue;
+}
+
+.right-icon{
+    position: absolute;
+    font-size: 30px;
+    margin-left: 10px;
+    text-align: center;
+    align-items: center;
+}

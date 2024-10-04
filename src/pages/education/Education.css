@@ -1,0 +1,351 @@
+.education {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 75px 115px;
+  margin-left: 300px;
+}
+
+.education-teble1{
+    position: relative;
+    right: 200px;
+}
+
+.education-table1 h1 {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  color: #000;
+}
+
+.university{
+    margin-top: 85px;
+}
+
+
+
+.university p {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20.8px;
+  text-align: left;
+  color: #00000099;
+}
+
+.university p span {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 26.4px;
+  text-align: left;
+  color: #000;
+}
+
+.university h3 {
+  position: relative;
+  left: 300px;
+  bottom: 30px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20.8px;
+  color: #00000099;
+
+}
+.university h1{
+    font-weight: 900;
+    position: relative;
+    bottom: 30px;
+    color: grey;
+}
+
+
+.education-table1 h1 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    color: #000;
+  }
+  
+  .school{
+      margin-top: 50px;
+  }
+  
+  .school p {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color: #00000099;
+  }
+  
+  .school p span {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-align: left;
+    color: #000;
+  }
+  
+  .school h3 {
+    position: relative;
+    left: 300px;
+    bottom: 30px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    color: #00000099;
+  
+  }
+  .school h1{
+      font-weight: 900;
+      position: relative;
+      bottom: 30px;
+      color: grey;
+  }
+  
+  .education-table1 h1 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    color: #000;
+  }
+  
+  .state{
+      margin-top: 50px;
+  }
+  
+  .state p {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color: #00000099;
+  }
+  
+  .state p span {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-align: left;
+    color: #000;
+  }
+  
+  .state h3 {
+    position: relative;
+    left: 300px;
+    bottom: 30px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    color: #00000099;
+  
+  }
+  .state h1{
+      font-weight: 900;
+      position: relative;
+      bottom: 30px;
+      color: grey;
+  }
+
+  .university .arrow{
+    position: relative;
+    bottom: 20px;
+    left: 150px;
+  }
+
+  .school .arrow{
+    position: relative;
+    bottom: 25px;
+    left: 230px;
+  }
+
+  .state .arrow{
+    position: relative;
+    bottom: 25px;
+    left: 200px;
+  }
+
+  .education-teble2{
+    margin-left: 100px;
+  }
+.img4{
+    position: relative;
+    display: flex;
+    /* right: 170px; */
+}
+
+.img4 img{
+    object-fit: contain;
+}
+
+.img4 p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color: #00000099;
+    margin-left: 20px;
+
+}
+
+.img4 p span{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-align: left;
+    color: #000;
+}
+
+.fleet{
+    margin-top: 55px;
+}
+
+.fleet h3{
+    position: relative;
+    left: 250px;
+    bottom: 30px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    color: #00000099;
+}
+
+.img4 .top{
+    position: relative;
+    bottom: 25px;
+    left: 170px;
+}
+
+.fleet h1{
+    font-weight: 900;
+    position: relative;
+    bottom: 30px;
+    color: grey;
+}
+  
+
+.img5{
+    position: relative;
+    display: flex;
+    /* right: 170px; */
+}
+
+.img5 img{
+    object-fit: contain;
+}
+
+.img5 p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color: #00000099;
+    margin-left: 20px;
+
+}
+
+.img5 p span{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-align: left;
+    color: #000;
+}
+
+.mash{
+    margin-top: 10px;
+}
+
+.mash h3{
+    position: relative;
+    left: 250px;
+    bottom: 30px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    color: #00000099;
+}
+
+.img5 .top{
+    position: relative;
+    bottom: 25px;
+    left: 170px;
+}
+
+.mash h1{
+    font-weight: 900;
+    position: relative;
+    bottom: 30px;
+    color: grey;
+}
+  
+
+
+.img6{
+    position: relative;
+    display: flex;
+    /* right: 170px; */
+}
+
+.img6 img{
+    object-fit: contain;
+}
+
+.img6 p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+    color: #00000099;
+    margin-left: 20px;
+
+}
+
+.img6 p span{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-align: left;
+    color: #000;
+}
+
+.king{
+    margin-top: 35px;
+}
+
+.king h3{
+    position: relative;
+    left: 250px;
+    bottom: 30px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    color: #00000099;
+}
+
+.img6 .top{
+    position: relative;
+    bottom: 25px;
+    left: 250px;
+}
+
+.king h1{
+    font-weight: 900;
+    position: relative;
+    bottom: 30px;
+    color: grey;
+}
+  

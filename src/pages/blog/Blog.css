@@ -1,0 +1,48 @@
+.blog-title h3{
+    font-size: 40px;
+    color: #FFA84B;
+}
+
+.blog{
+    padding-left: 70px;
+    background-color: #000;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.blog-title h1{
+    font-size: 54px;
+    color: white;
+}
+
+.blog-title p{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.blog-text{
+    color: white;
+    background-color: #000;
+    position: relative;
+    right: 200px;
+}
+
+.blog-text{
+margin-top: 80px;
+padding: 50px;
+}
+
+.blog1,
+.blog2,
+.blog3,
+.blog4,
+.blog5
+{
+    border-bottom: 2px solid gray;
+}
+
+.blog-text p{
+    color: gray;
+}
+

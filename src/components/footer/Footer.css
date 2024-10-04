@@ -1,0 +1,234 @@
+.footer-title h2 {
+  color: #ff8a56;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 4px;
+}
+
+.footer-title h1 {
+  font-size: 54px;
+  font-weight: 700;
+  line-height: 59.4px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: white;
+}
+
+.footer1{
+    padding-top: 50px;
+    background-color: black;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.down{
+    display: flex;
+
+}
+.down h1{
+font-size: 24px;
+font-weight: 700;
+line-height: 31.2px;
+letter-spacing: 0.30000001192092896px;
+padding: 20px 113px;
+
+color: white;
+}
+
+.down p{
+    color: white;
+    font-size: 25px;
+    padding-top: 14px;
+}
+
+
+
+
+
+
+.down1{
+    display: flex;
+
+}
+.down1 h1{
+font-size: 24px;
+font-weight: 700;
+line-height: 31.2px;
+letter-spacing: 0.30000001192092896px;
+padding: 20px 113px;
+color: white;
+}
+
+.down1 p{
+    color: white;
+    font-size: 25px;
+    padding-top: 14px;
+    margin-left: 125px;
+}
+
+
+
+
+
+.down2{
+    display: flex;
+
+}
+.down2 h1{
+font-size: 24px;
+font-weight: 700;
+line-height: 31.2px;
+letter-spacing: 0.30000001192092896px;
+padding: 20px 113px;
+color: white;
+}
+
+.down2 p{
+    color: white;
+    font-size: 25px;
+    padding-top: 14px;
+    margin-left: 52px;
+}
+
+
+
+.down3{
+    display: flex;
+
+}
+.down3 h1{
+font-size: 24px;
+font-weight: 700;
+line-height: 31.2px;
+letter-spacing: 0.30000001192092896px;
+padding: 20px 113px;
+color: white;
+}
+
+.down3 p{
+    position: relative;
+    color: white;
+    font-size: 25px;
+    padding-top: 14px;
+    right: 65px;
+}
+
+.down4{
+    display: flex;
+
+}
+.down4 h1{
+font-size: 24px;
+font-weight: 700;
+line-height: 31.2px;
+letter-spacing: 0.30000001192092896px;
+padding: 20px 113px;
+color: white;
+}
+
+.down4 p{
+    position: relative;
+    color: white;
+    font-size: 25px;
+    padding-top: 14px;
+    right: 65px;
+    margin-left: 160px;
+}
+
+.down5{
+    display: flex;
+
+}
+.down5 h1{
+font-size: 24px;
+font-weight: 700;
+line-height: 31.2px;
+letter-spacing: 0.30000001192092896px;
+padding: 20px 113px;
+color: white;
+}
+
+.down5 p{
+    position: relative;
+    color: white;
+    font-size: 25px;
+    padding-top: 14px;
+    right: 65px;
+    margin-left: 80px;
+}
+
+
+.down6{
+    display: flex;
+
+}
+.down6 h1{
+font-size: 24px;
+font-weight: 700;
+line-height: 31.2px;
+letter-spacing: 0.30000001192092896px;
+padding: 20px 113px;
+color: white;
+}
+
+.down6 p{
+    position: relative;
+    color: white;
+    font-size: 25px;
+    padding-top: 14px;
+    right: 65px;
+    margin-left: 37px;
+}
+
+
+.down7{
+    display: flex;
+
+}
+.down7 h1{
+font-size: 24px;
+font-weight: 700;
+line-height: 31.2px;
+letter-spacing: 0.30000001192092896px;
+padding: 20px 113px;
+color: white;
+}
+
+.down7 p{
+    position: relative;
+    color: white;
+    font-size: 25px;
+    padding-top: 14px;
+    right: 65px;
+}
+
+.footer-service{
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.ready h1{
+    color: white;
+    padding: 70px;
+    font-size: 54px;
+}
+
+.ready h1 span{
+    color: blue;
+}
+
+.about{
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 70px;
+}
+
+
+
